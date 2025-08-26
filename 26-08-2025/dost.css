@@ -1,0 +1,13 @@
+img{
+    border: 2px solid black;
+    border-radius: 50%;
+    height:250px;
+    width:250px;
+}
+fieldset{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    background-color: lightblue;
+}
