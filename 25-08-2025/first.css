@@ -1,0 +1,40 @@
+p {
+    color: rgb(57, 105, 9);
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+#id {
+    color: purple;
+}
+
+.class {
+    color: brown;
+}
+
+h1 {
+    color: darkgreen;
+    text-decoration: underline;
+    text-align: center;
+    background-color: rgb(243, 248, 209);
+    padding: 10px;
+}
+
+h3 {
+    color: rgb(212, 237, 88);
+    text-align: center;
+    background-color: rgb(26, 0, 129);
+    font-weight: 900;
+    font-style: italic;
+    padding: 5px;
+}
+
+a {
+    color: red;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+ul li, ol li {
+    font-family: Helvetica;
+}

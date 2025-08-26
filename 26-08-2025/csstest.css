@@ -1,0 +1,11 @@
+div{
+    padding: 20px;
+    font-family:Helvetica;
+    color:rgba(5, 84, 169,0.1);
+    font-size:40px;
+    font-weight:bold;
+    text-align:center;
+    background-color:lightgrey;
+    text-decoration: underline;
+    text-decoration: line-through;
+}
