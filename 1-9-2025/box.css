@@ -1,0 +1,41 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: orchid;
+    height: 200px;
+    width: 200px;
+    margin: 20px 0px;
+    padding: 20px;
+    border: 5px solid purple;
+    background-color: lavender;
+    text-decoration: underline;
+    border-radius: 50%;
+}
+body{
+    background-color: lavender;
+}
+img{
+    border-radius: 50%;
+    height:250px;
+    width:250px;
+}
+#id{
+    border: 2px solid purple;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-color: lavender;
+    margin: 30px;
+    padding: 20px;
+}
+fieldset{
+    border: 5px solid purple;
+    height: 1000px;
+    width:  400px;
+    background-color: lavender;
+}
+legend{
+    font-size: 30px;
+    color: purple;
+    font-family: Helvetica;
+}
