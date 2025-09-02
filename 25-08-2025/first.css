@@ -38,3 +38,22 @@ a {
 ul li, ol li {
     font-family: Helvetica;
 }
+a{
+    font-size: 20px;
+    color: darkorange;
+}
+a:hover {
+    color: yellow;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+#header{
+    position: fixed;
+}
