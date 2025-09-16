@@ -3,7 +3,21 @@ body {
   color: white;
   font-family: Helvetica;
 }
-
+.btn{
+    background-color: #ffffff; /* Green */
+    color: rgb(0, 0, 0);
+    padding: 10px 24px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.btn:hover{
+    background-color: #000000; 
+    color: white;
+}
 .food {
   border-radius: 15px;
   overflow: hidden;
@@ -21,4 +35,10 @@ body {
 }
 div{
     font-family: 'Helvetica';
+}
+header{
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
+    font-weight: bold;
 }
